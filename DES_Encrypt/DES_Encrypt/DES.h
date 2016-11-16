@@ -4,7 +4,6 @@
 #include"PrepDES.h"
 
 using std::bitset;
-extern int n;
 
 class DES
 {
